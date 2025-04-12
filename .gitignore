@@ -7,4 +7,4 @@ server/node_modules/
 .env
 
 # Builds
-client/build/
+# client/build/
